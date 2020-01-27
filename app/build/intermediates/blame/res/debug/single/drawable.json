@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_edit_close_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\category_edit_close_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_detail_comment_btn_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_detail_comment_btn_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_comment_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_comment_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_channel_shape.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_channel_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_video_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\more_video_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_love_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_love_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newnologin_tabbar_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newnologin_tabbar_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newvideo_tabbar_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newvideo_tabbar_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_nightmode_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_nightmode_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_more_title_detail_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\btn_more_title_detail_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_tool_bar_bg_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\detail_tool_bar_bg_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_click_play_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_click_play_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_divider_bg_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_divider_bg_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_loading.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_loading.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_click_back_tiny_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_click_back_tiny_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_dialog_progress.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_volume_progress_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_volume_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_edit_close.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\category_edit_close.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_badge_bg_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\main_tab_badge_bg_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_relatedvideo.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_relatedvideo.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_seek_progress.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_seek_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_repost_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_repost_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_expand.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_category_expand.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_title_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_title_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clickable_background_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\clickable_background_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_tool_bar_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\detail_tool_bar_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\v1.8.5\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_dialog_progress_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newvideo_tabbar_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newvideo_tabbar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_seek_thumb_pressed.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_info_layout_round_divider_shape.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\new_info_layout_round_divider_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_seek_thumb_normal.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_category_expand_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_category_expand_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_favorite_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_favorite_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newmine_tabbar_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newmine_tabbar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_click_error_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_click_error_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_repost.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_repost.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_ad_button_view.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\splash_ad_button_view.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_states.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_ad_ignore_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\splash_ad_ignore_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_stroke_red.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\shape_stroke_red.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newnologin_tabbar_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newnologin_tabbar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newmine_tabbar_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newmine_tabbar_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_comment.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_comment.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_nightmode_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_nightmode_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_more_title_detail.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\btn_more_title_detail.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_love.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_action_love.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_black_tipic_details.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\share_black_tipic_details.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newhome_tabbar_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newhome_tabbar_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_favorite_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_favorite_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_progress.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_red.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\shape_round_red.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_search_bar_input.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\header_search_bar_input.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_subscribe_fragment_list_header_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_subscribe_fragment_list_header_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_settings_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_settings_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clickable_background.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\clickable_background.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newcare_tabbar_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newcare_tabbar_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_seek_thumb.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jc_click_pause_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jcvideoplayer-lib\\5.4\\res\\drawable\\jc_click_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_video_selector_night.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\more_video_selector_night.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_new_category_tip_dark.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\ic_new_category_tip_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_tab_badge_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\main_tab_badge_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_subscribe_fragment_list_header.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_subscribe_fragment_list_header.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rectangle_black.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\shape_rectangle_black.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_titlebar.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_titlebar.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftbackicon_titlebar.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\leftbackicon_titlebar.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_divider_bg.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_divider_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_page_settings_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\my_page_settings_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\v1.8.5\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newcare_tabbar_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newcare_tabbar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_detail_comment_btn.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\bg_detail_comment_btn.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_newhome_tabbar_selector.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\src\\main\\res\\drawable\\b_newhome_tabbar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\android\\ganymede-TodayNews-master-tmp\\TodayNews\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    }
+]
